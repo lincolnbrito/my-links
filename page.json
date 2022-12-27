@@ -1,0 +1,22 @@
+{
+  "name": "Lincoln Brito",
+  "description": "Software Engineer",
+  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lincolnbrito",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/lincolnbrito",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/lincolnsbrito",
+      "icon": "twitter"
+    },    
+  ]
+}
