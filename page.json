@@ -1,7 +1,7 @@
 {
   "name": "Lincoln Brito",
   "description": "Software Engineer",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "image_url": "",
   "links": [
     {
       "title": "LinkedIn",
@@ -17,6 +17,6 @@
       "title": "Twitter",
       "url": "https://twitter.com/lincolnsbrito",
       "icon": "twitter"
-    },    
+    }
   ]
 }
