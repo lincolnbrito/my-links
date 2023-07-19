@@ -17,6 +17,11 @@
       "title": "Twitter",
       "url": "https://twitter.com/lincolnsbrito",
       "icon": "twitter"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/lincolnbrito",
+      "icon": "spotify"
     }
   ]
 }
